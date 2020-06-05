@@ -3,7 +3,6 @@ Moving average filter for IEEE 1588
 
 Function: make sure the correction value is accurate and stable
 Author: Caspar Chen
-E-mail: caspar_chen@pegatroncorp.com
 Date:20200507
 
 Modification History:
